@@ -1,5 +1,6 @@
 # Compiled binary
 c-db
+engine
 
 # Object files
 *.o
@@ -9,9 +10,7 @@ data.txt
 delete.txt
 
 # Editor files
-.vscode/
-*.swp
-*~
+
 
 # Build artifacts
 *.d
