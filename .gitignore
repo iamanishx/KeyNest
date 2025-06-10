@@ -1,0 +1,25 @@
+# Compiled binary
+c-db
+
+# Object files
+*.o
+
+# Database files (created at runtime)
+data.txt
+delete.txt
+
+# Editor files
+.vscode/
+*.swp
+*~
+
+# Build artifacts
+*.d
+build/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Debug files
+core
